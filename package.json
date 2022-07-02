@@ -1,0 +1,27 @@
+{
+  "name": "crazydrawing",
+  "version": "1.0.0",
+  "description": "[crazydraw.in](http://crazydraw.in/)",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunlyse/crazydrawing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunlyse/crazydrawing/issues"
+  },
+  "homepage": "https://github.com/sunlyse/crazydrawing#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.18.1"
+  }
+}
