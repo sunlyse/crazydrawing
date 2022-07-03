@@ -24,4 +24,4 @@ There is 15 exercises per set, but you can repeat the sets as many times as you 
 
  ### Feedback
 
- We would love to hear your feedback and stories. Feel free to reach out to <contact@sunlyse.com> or simply leave a message in the (issues)[#https://github.com/sunlyse/crazydrawing/issues] section of this repo.
+ We would love to hear your feedback and stories. Feel free to reach out to <contact@sunlyse.com> or simply leave a message in the [issues](https://github.com/sunlyse/crazydrawing/issues) section of this repo.
