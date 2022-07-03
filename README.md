@@ -1,15 +1,15 @@
 # CrazyDrawing
 
-[crazydrawing.space](http://crazydrawin.space/)
+[crazydrawing.space](http://crazydrawing.space/)
 
 A fun exercise for getting out of creative blocks. Helps to get into the process of making new and unusual ideas.
-Available in two languages [Russian](http://crazydrawin.space/ru) and [English](http://crazydrawin.space/en).
+Available in two languages [Russian](http://crazydrawing.space/ru) and [English](http://crazydrawing.space/en).
 
 ### Who is it for
 
 We have created this exercise for ourselves and those who want to find ways to overcome creative blocks or get into the mood of generating new ideas easily. We hope it can be useful for anyone who seeks to find a fun way to **connect to their inner child** and open their mind.
 
-The exercise is free and available for everyone here [crazydrawing.space](http://crazydrawin.space/). 
+The exercise is free and available for everyone here [crazydrawing.space](http://crazydrawing.space/). 
 
 ### How it works
 
