@@ -3,6 +3,7 @@
 [crazydrawing.space](http://crazydrawin.space/)
 
 A fun exercise for getting out of creative blocks. Helps to get into the process of making new and unusual ideas.
+Available in two languages [Russian](http://crazydrawin.space/ru) and [English](http://crazydrawin.space/en).
 
 ### Who is it for
 
@@ -25,3 +26,8 @@ There is 15 exercises per set, but you can repeat the sets as many times as you 
  ### Feedback
 
  We would love to hear your feedback and stories. Feel free to reach out to <contact@sunlyse.com> or simply leave a message in the [issues](https://github.com/sunlyse/crazydrawing/issues) section of this repo.
+
+ ### Future work
+
+ - Add support for more languages
+ - Add audio pronunciation for phrases
