@@ -2,8 +2,13 @@
 
 [crazydrawing.space](http://crazydrawin.space/)
 
- A fun exercise for getting out of creative blocks. Helps to get into the process of making new and unusual ideas.
+A fun exercise for getting out of creative blocks. Helps to get into the process of making new and unusual ideas.
 
+### Who is it for
+
+We have created this exercise for ourselves and those who want to find ways to overcome creative blocks or get into the mood of generating new ideas easily. We hope it can be useful for anyone who seeks to find a fun way to **connect to their inner child** and open their mind.
+
+The exercise is free and available for everyone here [crazydrawing.space](http://crazydrawin.space/). 
 
 ### How it works
 
@@ -16,3 +21,7 @@ There is 15 exercises per set, but you can repeat the sets as many times as you 
  - Whenever you feel you need to get some "refreshment" for your brain. 
  - When you are tired and want to have a bit of fun.
  - Or every day to increase your overall level of creative thinking.
+
+ ### Feedback
+
+ We would love to hear your feedback and stories. Feel free to reach out to <contact@sunlyse.com> or simply leave a message in the (issues)[https://github.com/sunlyse/crazydrawing/issues] section of this repo.
