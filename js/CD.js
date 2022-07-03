@@ -14,7 +14,7 @@ var CD = {
     , _timeoutVar         : null
     , _currentPhraseNumber: 0
     , phrases: []
-    , NUM_PHRASES: 10
+    , NUM_PHRASES: 15
 
     , _random_phrase: function() {
 
@@ -83,7 +83,7 @@ var CD = {
         CatchEvent(CD_TimeoutFinished, CD_Controls_NextClick);
 
         if( this._currentPhraseNumber >= this.NUM_PHRASES ) {
-            window.location = '/end';
+            window.location = 'end';
         }
     }
     , resumeWithNewPhrase: function() {
@@ -119,7 +119,6 @@ var CD = {
     }
     , endDrawTimer: function() {
         CatchEvent(CD_Controls_PauseClick);
-
     }
 };
 

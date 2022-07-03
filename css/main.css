@@ -22,7 +22,7 @@ body { background-color: #D0021B; color: #4E4C4C;  }
     .phrases-column { padding-right: 9em; color: #5B6B79; }
 
     #tips { font-size: 1.5em; margin-top: 6.2em; width: 31em; line-height: 1.1em;   font-weight: 300;}
-    #action-button { margin-top: 2.4em; }
+    #action-button { margin-top: 3em; }
         #action-button a { font-size: 1.5em; border: 3px solid #D0021B; color: #D0021B; text-align: center; padding: 1em 1.7em; text-decoration: none;}
         #action-button a:hover { color: #fff; background-color: #D0021B;
             -webkit-transition: all .5s ease, opacity .5s ease;
